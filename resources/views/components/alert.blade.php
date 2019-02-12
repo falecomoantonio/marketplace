@@ -1,0 +1,1 @@
+<div class="alert alert-{{ $className }}" role="alert">{{ $message }}</div>
